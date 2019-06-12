@@ -1,0 +1,9 @@
+.name {
+ width: 128px; 
+ margin-bottom: 30px;
+}
+
+.name:first-letter {
+    text-transform:capitalize;
+    
+}
